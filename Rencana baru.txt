@@ -1,0 +1,6 @@
+RENCANA BARU SAYA
+- Belajar bahasa Python
+  * Mempelajari OOP pada python
+  * Belajar Framework python
+- Belajar C++
+- Belajar Java
