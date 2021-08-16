@@ -1,5 +1,7 @@
 Resolusi saya
--Saya akan konsisten belajar programming
--Belajar menjadi Web Developer
--Membuat Web saya sendiri
--Menjual hasil Web yang telah saya buat
+- Saya akan konsisten belajar programming
+- Belajar menjadi Web Developer
+- Membuat Web saya sendiri
+- Menjual hasil Web yang telah saya buat
+- Mendalami ilmu tentang Web Developer
+- Belajar menjadi Full stack Developer
